@@ -17,6 +17,10 @@ export default function Home() {
     <h3>Total Assignments</h3>
     <p>8</p>
   </div>
+  <div>
+  <h3>Pending Assignments</h3>
+  <p>2</p>
+</div>
 </section>
     </main>
   );
