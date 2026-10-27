@@ -10,6 +10,14 @@ export default function Home() {
   <p><strong>Name:</strong> Babatunde Iyimide</p>
   <p><strong>Matric number:</strong> 25/COICT/CSS/010</p>
 </section>
+<section>
+  <h2>Assignment Overview</h2>
+
+  <div>
+    <h3>Total Assignments</h3>
+    <p>8</p>
+  </div>
+</section>
     </main>
   );
 }
