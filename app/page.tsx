@@ -21,6 +21,10 @@ export default function Home() {
   <h3>Pending Assignments</h3>
   <p>2</p>
 </div>
+<div>
+  <h3>Completed Assignments</h3>
+  <p>6</p>
+</div>
 </section>
     </main>
   );
